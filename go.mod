@@ -1,3 +1,3 @@
-module github.com/bhargrah/stringutils
+module github.com/bhargrah/go_stringutils_lib
 
 go 1.14
